@@ -5,9 +5,11 @@ gemspec
 gem 'rack',              '~> 1.6.0'
 gem 'rack-test',         '~> 0.6.3'
 gem 'tilt',              '~> 1.4.1'
-gem 'activesupport',     '~> 4.2.1'
+gem 'activesupport',     '~> 4.2.7'
+gem 'bigdecimal', '~> 1.4.4'
 gem 'tzinfo'
 gem 'i18n'
+gem 'pry'
 
 # group :development do
   # gem 'rake',           '~> 10.4.2'
